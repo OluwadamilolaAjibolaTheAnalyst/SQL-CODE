@@ -1,3 +1,3 @@
 # SQL-CODE
-I will drop all SQL Code or Related work in this repository.
-Feel Free to Check it out
+I will drop all SQL Code or Related document in this repository.
+Feel Free to download and use the code to your advantage
